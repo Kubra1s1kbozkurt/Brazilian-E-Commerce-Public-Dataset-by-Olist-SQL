@@ -2,7 +2,7 @@
 
 ## Case 1 : Sipariş Analizi
 ### Question 1 : 
--Aylık olarak order dağılımını inceleyindi. Tarih verisi için order_approved_at kullanıldı.
+-Aylık olarak order dağılımını incelendi. Tarih verisi için order_approved_at kullanıldı.
 
 ``` sql
 SELECT TO_CHAR(order_approved_at, 'YYYY/MM') AS year_month,
