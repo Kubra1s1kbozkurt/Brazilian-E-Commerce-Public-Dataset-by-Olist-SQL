@@ -1,4 +1,4 @@
-## SQL PROJE :Brazilian E-Commerce Public Dataset by Olist
+# SQL PROJE :Brazilian E-Commerce Public Dataset by Olist
 
 ## Case 1 : Sipariş Analizi
 ### Question 1 : 
